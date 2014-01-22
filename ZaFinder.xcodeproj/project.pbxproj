@@ -21,6 +21,7 @@
 		3A2A083318905A6900ACBE9E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A2A081518905A6900ACBE9E /* UIKit.framework */; };
 		3A2A083B18905A6900ACBE9E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3A2A083918905A6900ACBE9E /* InfoPlist.strings */; };
 		3A2A083D18905A6900ACBE9E /* ZaFinderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A2A083C18905A6900ACBE9E /* ZaFinderTests.m */; };
+		3A2A0848189067A900ACBE9E /* PizzaMapItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A2A0847189067A900ACBE9E /* PizzaMapItem.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		3A2A083818905A6900ACBE9E /* ZaFinderTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ZaFinderTests-Info.plist"; sourceTree = "<group>"; };
 		3A2A083A18905A6900ACBE9E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3A2A083C18905A6900ACBE9E /* ZaFinderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZaFinderTests.m; sourceTree = "<group>"; };
+		3A2A0846189067A900ACBE9E /* PizzaMapItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PizzaMapItem.h; sourceTree = "<group>"; };
+		3A2A0847189067A900ACBE9E /* PizzaMapItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PizzaMapItem.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				3A2A082318905A6900ACBE9E /* Main.storyboard */,
 				3A2A082618905A6900ACBE9E /* ViewController.h */,
 				3A2A082718905A6900ACBE9E /* ViewController.m */,
+				3A2A0846189067A900ACBE9E /* PizzaMapItem.h */,
+				3A2A0847189067A900ACBE9E /* PizzaMapItem.m */,
 				3A2A082918905A6900ACBE9E /* Images.xcassets */,
 				3A2A081818905A6900ACBE9E /* Supporting Files */,
 			);
@@ -249,6 +254,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A2A0848189067A900ACBE9E /* PizzaMapItem.m in Sources */,
 				3A2A082818905A6900ACBE9E /* ViewController.m in Sources */,
 				3A2A082218905A6900ACBE9E /* AppDelegate.m in Sources */,
 				3A2A081E18905A6900ACBE9E /* main.m in Sources */,
