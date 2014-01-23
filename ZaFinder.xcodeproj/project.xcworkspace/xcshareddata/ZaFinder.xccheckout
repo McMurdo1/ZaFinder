@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B381F1C-B409-4C82-8805-70A6E66032A9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZaFinder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D9000BD9-0D0D-47A6-A9DE-741F845633FD</key>
+		<string>https://github.com/McMurdo1/ZaFinder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZaFinder.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D9000BD9-0D0D-47A6-A9DE-741F845633FD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/McMurdo1/ZaFinder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D9000BD9-0D0D-47A6-A9DE-741F845633FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D9000BD9-0D0D-47A6-A9DE-741F845633FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZaFinder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
